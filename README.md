@@ -11,6 +11,6 @@ Project #2:  mainTU.py
              
 Description: Explore Python Libraries from PyPi.python.org and describes useful and/or interesting ways in which it might be used 
 
-Project #3   Preterm_births.py
+Project #3   Preterm_births.ipynb
 
-Description: A complete "Web Dev Story" that adopts a Design Thinking approach to address a problem through a front-end website build
+Description: A complete "Web Dev Story" that adopts a Design Thinking approach to address a social problem in NJ using python libraries
