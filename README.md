@@ -13,4 +13,4 @@ Description: Explore Python Libraries from PyPi.python.org and describes useful 
 
 Project #3   Preterm_births.ipynb
 
-Description: A complete "Web Dev Story" that adopts a Design Thinking approach to address a social problem in NJ using python libraries
+Description: A complete "CS Story" that adopts a Design Thinking approach to address a social problem in NJ using python libraries
